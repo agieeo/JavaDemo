@@ -1,2 +1,2 @@
 # javademo
-just demo
+just java demo
