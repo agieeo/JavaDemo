@@ -13,4 +13,4 @@ public class is100 {
         System.out.println(map.size());
     }
 }
-
+//输出100，因为short != int,所以remove是无效删除。
